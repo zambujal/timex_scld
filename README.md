@@ -19,7 +19,7 @@ The authors of this work are not affiliated, sponsored or have any partnership w
 Xilinx is a registered trademark of Xilinx in the United States and other countries.
 
 # Implementation code
-The implementation (VHDL code and associated files) target a XC95288XL-10TQ144 CPLD from Xilinx. files flash01 and flash02, the rest for an xc95144XL-10T100
+The implementation (VHDL code and associated files) was originaly to target a XC95144XL chip... this implementation is for an XC95288XL-10TQ144 CPLD from Xilinx. files flash01 and flash02
 
 ## Synthesis
 The tool used for synthesis and fitting was Xilinx ISE 14.7. 
