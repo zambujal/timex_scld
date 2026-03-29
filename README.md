@@ -30,3 +30,7 @@ Programming can be acomplished with Xilinx Impact using a proper programmer (i.e
 # Building
 
 Just type "make" under the SDLC implementation folder (syn/xilinx). Alternatively you can try loading the ISE project in the same directory.
+
+it works!
+https://www.youtube.com/watch?v=lAT0rH90Xok
+
